@@ -169,6 +169,60 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+nextexceed.obj: nextexceed.cpp.obj
+
+.PHONY : nextexceed.obj
+
+# target to build an object file
+nextexceed.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/nextexceed.cpp.obj
+.PHONY : nextexceed.cpp.obj
+
+nextexceed.i: nextexceed.cpp.i
+
+.PHONY : nextexceed.i
+
+# target to preprocess a source file
+nextexceed.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/nextexceed.cpp.i
+.PHONY : nextexceed.cpp.i
+
+nextexceed.s: nextexceed.cpp.s
+
+.PHONY : nextexceed.s
+
+# target to generate assembly for a file
+nextexceed.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/nextexceed.cpp.s
+.PHONY : nextexceed.cpp.s
+
+util.obj: util.cpp.obj
+
+.PHONY : util.obj
+
+# target to build an object file
+util.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/util.cpp.obj
+.PHONY : util.cpp.obj
+
+util.i: util.cpp.i
+
+.PHONY : util.i
+
+# target to preprocess a source file
+util.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/util.cpp.i
+.PHONY : util.cpp.i
+
+util.s: util.cpp.s
+
+.PHONY : util.s
+
+# target to generate assembly for a file
+util.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/util.cpp.s
+.PHONY : util.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -181,6 +235,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... nextexceed.obj
+	@echo ... nextexceed.i
+	@echo ... nextexceed.s
+	@echo ... util.obj
+	@echo ... util.i
+	@echo ... util.s
 .PHONY : help
 
 
