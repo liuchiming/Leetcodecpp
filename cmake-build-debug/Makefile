@@ -142,6 +142,33 @@ leetcode_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/build
 .PHONY : leetcode_cpp/fast
 
+_85MaximalRectangle.obj: _85MaximalRectangle.cpp.obj
+
+.PHONY : _85MaximalRectangle.obj
+
+# target to build an object file
+_85MaximalRectangle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_85MaximalRectangle.cpp.obj
+.PHONY : _85MaximalRectangle.cpp.obj
+
+_85MaximalRectangle.i: _85MaximalRectangle.cpp.i
+
+.PHONY : _85MaximalRectangle.i
+
+# target to preprocess a source file
+_85MaximalRectangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_85MaximalRectangle.cpp.i
+.PHONY : _85MaximalRectangle.cpp.i
+
+_85MaximalRectangle.s: _85MaximalRectangle.cpp.s
+
+.PHONY : _85MaximalRectangle.s
+
+# target to generate assembly for a file
+_85MaximalRectangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_85MaximalRectangle.cpp.s
+.PHONY : _85MaximalRectangle.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -232,6 +259,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... leetcode_cpp
+	@echo ... _85MaximalRectangle.obj
+	@echo ... _85MaximalRectangle.i
+	@echo ... _85MaximalRectangle.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

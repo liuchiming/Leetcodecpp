@@ -6,27 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Admin/CLionProjects/leetcode_Cpp/main.cpp
-iostream
--
-nextexceed.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/nextexceed.h
-util.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/util.h
-
-C:/Users/Admin/CLionProjects/leetcode_Cpp/nextexceed.cpp
+C:/Users/Admin/CLionProjects/leetcode_Cpp/_85MaximalRectangle.cpp
 stack
 -
-nextexceed.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/nextexceed.h
+_85MaximalRectangle.h
+C:/Users/Admin/CLionProjects/leetcode_Cpp/_85MaximalRectangle.h
 
-C:/Users/Admin/CLionProjects/leetcode_Cpp/nextexceed.h
-vector
--
-
-C:/Users/Admin/CLionProjects/leetcode_Cpp/util.h
-iostream
--
+C:/Users/Admin/CLionProjects/leetcode_Cpp/_85MaximalRectangle.h
 vector
 -
 
