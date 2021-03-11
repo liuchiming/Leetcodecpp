@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.h">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_739DailyTemperatures.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>

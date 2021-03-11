@@ -6,23 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_739DailyTemperatures.cpp
+C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.cpp
 stack
 -
-_739DailyTemperatures.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_739DailyTemperatures.h
+_503NextGreaterElements.h
+C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.h
 
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_739DailyTemperatures.h
-vector
--
-
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_85MaximalRectangle.cpp
-stack
--
-_85MaximalRectangle.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_85MaximalRectangle.h
-
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_85MaximalRectangle.h
+C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.h
 vector
 -
 
