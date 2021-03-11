@@ -142,6 +142,33 @@ leetcode_cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/build
 .PHONY : leetcode_cpp/fast
 
+_503NextGreaterElements.obj: _503NextGreaterElements.cpp.obj
+
+.PHONY : _503NextGreaterElements.obj
+
+# target to build an object file
+_503NextGreaterElements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_503NextGreaterElements.cpp.obj
+.PHONY : _503NextGreaterElements.cpp.obj
+
+_503NextGreaterElements.i: _503NextGreaterElements.cpp.i
+
+.PHONY : _503NextGreaterElements.i
+
+# target to preprocess a source file
+_503NextGreaterElements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_503NextGreaterElements.cpp.i
+.PHONY : _503NextGreaterElements.cpp.i
+
+_503NextGreaterElements.s: _503NextGreaterElements.cpp.s
+
+.PHONY : _503NextGreaterElements.s
+
+# target to generate assembly for a file
+_503NextGreaterElements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_503NextGreaterElements.cpp.s
+.PHONY : _503NextGreaterElements.cpp.s
+
 _739DailyTemperatures.obj: _739DailyTemperatures.cpp.obj
 
 .PHONY : _739DailyTemperatures.obj
@@ -286,6 +313,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... leetcode_cpp
+	@echo ... _503NextGreaterElements.obj
+	@echo ... _503NextGreaterElements.i
+	@echo ... _503NextGreaterElements.s
 	@echo ... _739DailyTemperatures.obj
 	@echo ... _739DailyTemperatures.i
 	@echo ... _739DailyTemperatures.s
