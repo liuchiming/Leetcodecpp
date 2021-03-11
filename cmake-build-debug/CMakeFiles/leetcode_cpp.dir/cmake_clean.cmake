@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/leetcode_cpp.dir/_503NextGreaterElements.cpp.obj"
   "CMakeFiles/leetcode_cpp.dir/_739DailyTemperatures.cpp.obj"
   "CMakeFiles/leetcode_cpp.dir/_85MaximalRectangle.cpp.obj"
   "CMakeFiles/leetcode_cpp.dir/main.cpp.obj"
