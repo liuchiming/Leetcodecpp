@@ -223,6 +223,33 @@ _85MaximalRectangle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_85MaximalRectangle.cpp.s
 .PHONY : _85MaximalRectangle.cpp.s
 
+_901StockSpanner.obj: _901StockSpanner.cpp.obj
+
+.PHONY : _901StockSpanner.obj
+
+# target to build an object file
+_901StockSpanner.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_901StockSpanner.cpp.obj
+.PHONY : _901StockSpanner.cpp.obj
+
+_901StockSpanner.i: _901StockSpanner.cpp.i
+
+.PHONY : _901StockSpanner.i
+
+# target to preprocess a source file
+_901StockSpanner.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_901StockSpanner.cpp.i
+.PHONY : _901StockSpanner.cpp.i
+
+_901StockSpanner.s: _901StockSpanner.cpp.s
+
+.PHONY : _901StockSpanner.s
+
+# target to generate assembly for a file
+_901StockSpanner.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_901StockSpanner.cpp.s
+.PHONY : _901StockSpanner.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -322,6 +349,9 @@ help:
 	@echo ... _85MaximalRectangle.obj
 	@echo ... _85MaximalRectangle.i
 	@echo ... _85MaximalRectangle.s
+	@echo ... _901StockSpanner.obj
+	@echo ... _901StockSpanner.i
+	@echo ... _901StockSpanner.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

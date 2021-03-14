@@ -98,6 +98,12 @@
 		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_85MaximalRectangle.h">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_901StockSpanner.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_901StockSpanner.h">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/main.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
