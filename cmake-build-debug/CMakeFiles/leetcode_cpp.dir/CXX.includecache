@@ -6,38 +6,12 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.cpp
-stack
--
-_503NextGreaterElements.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.h
+C:/Users/Admin/CLionProjects/leetcode_Cpp/_239MaxSlidingWindow.cpp
+_239MaxSlidingWindow.h
+C:/Users/Admin/CLionProjects/leetcode_Cpp/_239MaxSlidingWindow.h
 
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.h
-vector
--
-
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_85MaximalRectangle.h
-vector
--
-
-C:/Users/Admin/CLionProjects/leetcode_Cpp/main.cpp
-iostream
--
-nextexceed.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/nextexceed.h
-_85MaximalRectangle.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_85MaximalRectangle.h
-_503NextGreaterElements.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.h
-util.h
-C:/Users/Admin/CLionProjects/leetcode_Cpp/util.h
-
-C:/Users/Admin/CLionProjects/leetcode_Cpp/nextexceed.h
-vector
--
-
-C:/Users/Admin/CLionProjects/leetcode_Cpp/util.h
-iostream
+C:/Users/Admin/CLionProjects/leetcode_Cpp/_239MaxSlidingWindow.h
+deque
 -
 vector
 -
