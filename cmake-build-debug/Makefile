@@ -196,6 +196,33 @@ _503NextGreaterElements.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_503NextGreaterElements.cpp.s
 .PHONY : _503NextGreaterElements.cpp.s
 
+_547FindCircleNum.obj: _547FindCircleNum.cpp.obj
+
+.PHONY : _547FindCircleNum.obj
+
+# target to build an object file
+_547FindCircleNum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_547FindCircleNum.cpp.obj
+.PHONY : _547FindCircleNum.cpp.obj
+
+_547FindCircleNum.i: _547FindCircleNum.cpp.i
+
+.PHONY : _547FindCircleNum.i
+
+# target to preprocess a source file
+_547FindCircleNum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_547FindCircleNum.cpp.i
+.PHONY : _547FindCircleNum.cpp.i
+
+_547FindCircleNum.s: _547FindCircleNum.cpp.s
+
+.PHONY : _547FindCircleNum.s
+
+# target to generate assembly for a file
+_547FindCircleNum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_547FindCircleNum.cpp.s
+.PHONY : _547FindCircleNum.cpp.s
+
 _739DailyTemperatures.obj: _739DailyTemperatures.cpp.obj
 
 .PHONY : _739DailyTemperatures.obj
@@ -373,6 +400,9 @@ help:
 	@echo ... _503NextGreaterElements.obj
 	@echo ... _503NextGreaterElements.i
 	@echo ... _503NextGreaterElements.s
+	@echo ... _547FindCircleNum.obj
+	@echo ... _547FindCircleNum.i
+	@echo ... _547FindCircleNum.s
 	@echo ... _739DailyTemperatures.obj
 	@echo ... _739DailyTemperatures.i
 	@echo ... _739DailyTemperatures.s

@@ -92,6 +92,12 @@
 		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_503NextGreaterElements.h">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_547FindCircleNum.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_547FindCircleNum.h">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="C:/Users/Admin/CLionProjects/leetcode_Cpp/_739DailyTemperatures.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
