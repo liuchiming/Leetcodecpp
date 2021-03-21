@@ -223,6 +223,33 @@ _547FindCircleNum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_547FindCircleNum.cpp.s
 .PHONY : _547FindCircleNum.cpp.s
 
+_684FindRedundantConnection.obj: _684FindRedundantConnection.cpp.obj
+
+.PHONY : _684FindRedundantConnection.obj
+
+# target to build an object file
+_684FindRedundantConnection.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_684FindRedundantConnection.cpp.obj
+.PHONY : _684FindRedundantConnection.cpp.obj
+
+_684FindRedundantConnection.i: _684FindRedundantConnection.cpp.i
+
+.PHONY : _684FindRedundantConnection.i
+
+# target to preprocess a source file
+_684FindRedundantConnection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_684FindRedundantConnection.cpp.i
+.PHONY : _684FindRedundantConnection.cpp.i
+
+_684FindRedundantConnection.s: _684FindRedundantConnection.cpp.s
+
+.PHONY : _684FindRedundantConnection.s
+
+# target to generate assembly for a file
+_684FindRedundantConnection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_cpp.dir\build.make CMakeFiles/leetcode_cpp.dir/_684FindRedundantConnection.cpp.s
+.PHONY : _684FindRedundantConnection.cpp.s
+
 _739DailyTemperatures.obj: _739DailyTemperatures.cpp.obj
 
 .PHONY : _739DailyTemperatures.obj
@@ -403,6 +430,9 @@ help:
 	@echo ... _547FindCircleNum.obj
 	@echo ... _547FindCircleNum.i
 	@echo ... _547FindCircleNum.s
+	@echo ... _684FindRedundantConnection.obj
+	@echo ... _684FindRedundantConnection.i
+	@echo ... _684FindRedundantConnection.s
 	@echo ... _739DailyTemperatures.obj
 	@echo ... _739DailyTemperatures.i
 	@echo ... _739DailyTemperatures.s
